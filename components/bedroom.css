@@ -1,9 +1,17 @@
-
 .bedroom {
   background-color: lavender;
   padding: 10px;
 }
 
-.bedroom-item--big {
+.bedroom__item {
+  margin: 5px;
+  padding: 8px;
+}
+
+.bedroom__item--big {
   font-size: 20px;
 }
+
+
+
+

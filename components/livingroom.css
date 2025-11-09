@@ -3,3 +3,16 @@
   background-color: lightblue;
   padding: 10px;
 }
+
+
+.livingroom__item {
+  padding: 8px;
+  margin: 5px 0;
+  border-radius: 5px;
+}
+
+.livingroom__item--new {
+  background-color: #8a20d5;
+  color: white;
+  font-weight: bold;
+}
