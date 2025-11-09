@@ -1,0 +1,9 @@
+.kitchen {
+  background-color: lightyellow;
+  padding: 10px;
+}
+
+.kitchen-item--new {
+  color: green;
+  font-weight: bold;
+}
